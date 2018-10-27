@@ -1,0 +1,355 @@
+{
+    "name": "Complementary",
+    "sets": [
+        {
+            "name": "Aged Arrangement",
+            "colors": [
+                {
+                    "value": "#9cb3c5",
+                    "name": "Blue Willow",
+                    "light": false
+                },
+                {
+                    "value": "#586c50",
+                    "name": "Sage",
+                    "light": true
+                },
+                {
+                    "value": "#d5683d",
+                    "name": "Flame",
+                    "light": true
+                },
+                {
+                    "value": "#865b2e",
+                    "name": "Fawn",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bakery Treats",
+            "colors": [
+                {
+                    "value": "#fbd1a7",
+                    "name": "Sourdough",
+                    "light": false
+                },
+                {
+                    "value": "#607178",
+                    "name": "Slate",
+                    "light": true
+                },
+                {
+                    "value": "#353c42",
+                    "name": "Charcoal",
+                    "light": true
+                },
+                {
+                    "value": "#01273c",
+                    "name": "oxford",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Buzzing Blooms",
+            "colors": [
+                {
+                    "value": "#fed700",
+                    "name": "Bumblebee",
+                    "light": true
+                },
+                {
+                    "value": "#1e9ad0",
+                    "name": "Curious Blue",
+                    "light": true
+                },
+                {
+                    "value": "#7e220b",
+                    "name": "Copper",
+                    "light": true
+                },
+                {
+                    "value": "#9a6231",
+                    "name": "Tawny",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Decorative Florals",
+            "colors": [
+                {
+                    "value": "#e6b6c2",
+                    "name": "Ballet",
+                    "light": false
+                },
+                {
+                    "value": "#d4587a",
+                    "name": "Lipstick",
+                    "light": true
+                },
+                {
+                    "value": "#dc364c",
+                    "name": "Cerise",
+                    "light": true
+                },
+                {
+                    "value": "#778633",
+                    "name": "Moss",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Fitness sportswear",
+            "colors": [
+                {
+                    "value": "#dfe4de",
+                    "name": "Bone",
+                    "light": false
+                },
+                {
+                    "value": "#126f80",
+                    "name": "Surf Green",
+                    "light": true
+                },
+                {
+                    "value": "#f95151",
+                    "name": "Carnation",
+                    "light": true
+                },
+                {
+                    "value": "#525e76",
+                    "name": "Smoky Blue",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Juicy Fruits",
+            "colors": [
+                {
+                    "value": "#ee3239",
+                    "name": "Strawberry",
+                    "light": true
+                },
+                {
+                    "value": "#5eaa5f",
+                    "name": "Fruit Salad",
+                    "light": true
+                },
+                {
+                    "value": "#fece00",
+                    "name": "Supernova",
+                    "light": false
+                },
+                {
+                    "value": "#9d6ab9",
+                    "name": "Grape",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Mediterranean Marine",
+            "colors": [
+                {
+                    "value": "#feb75d",
+                    "name": "Tangerine",
+                    "light": true
+                },
+                {
+                    "value": "#55c9ea",
+                    "name": "Scuba Blue",
+                    "light": true
+                },
+                {
+                    "value": "#013b63",
+                    "name": "Prussian",
+                    "light": true
+                },
+                {
+                    "value": "#000e2b",
+                    "name": "Midnight",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pure Produce",
+            "colors": [
+                {
+                    "value": "#9e5165",
+                    "name": "Amaranth",
+                    "light": true
+                },
+                {
+                    "value": "#a51e22",
+                    "name": "Tomato",
+                    "light": true
+                },
+                {
+                    "value": "#204b24",
+                    "name": "Zucchini",
+                    "light": true
+                },
+                {
+                    "value": "#0b2637",
+                    "name": "Denim",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rainy Day",
+            "colors": [
+                {
+                    "value": "#596fb5",
+                    "name": "Havelock",
+                    "light": true
+                },
+                {
+                    "value": "#fe7139",
+                    "name": "Tangerine",
+                    "light": true
+                },
+                {
+                    "value": "#928a99",
+                    "name": "Chinchilla",
+                    "light": true
+                },
+                {
+                    "value": "#695d85",
+                    "name": "Grape",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rooftop Views",
+            "colors": [
+                {
+                    "value": "#ced7d4",
+                    "name": "Silver",
+                    "light": false
+                },
+                {
+                    "value": "#fcbe71",
+                    "name": "Cantaloupe",
+                    "light": true
+                },
+                {
+                    "value": "#e55c25",
+                    "name": "Rust",
+                    "light": true
+                },
+                {
+                    "value": "#608796",
+                    "name": "Labradorite",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rusted Gates",
+            "colors": [
+                {
+                    "value": "#d2e0e9",
+                    "name": "Botticelli",
+                    "light": false
+                },
+                {
+                    "value": "#4579a0",
+                    "name": "Steel Blue",
+                    "light": true
+                },
+                {
+                    "value": "#002130",
+                    "name": "Daintree",
+                    "light": true
+                },
+                {
+                    "value": "#a35d22",
+                    "name": "Rust",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Snow & Sunshine",
+            "colors": [
+                {
+                    "value": "#ffefa1",
+                    "name": "Blonde",
+                    "light": false
+                },
+                {
+                    "value": "#ffb21a",
+                    "name": "Marigold",
+                    "light": false
+                },
+                {
+                    "value": "#876363",
+                    "name": "Opium",
+                    "light": true
+                },
+                {
+                    "value": "#414b6f",
+                    "name": "East Bay",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Textile Dyes",
+            "colors": [
+                {
+                    "value": "#e8c7b6",
+                    "name": "Desert",
+                    "light": false
+                },
+                {
+                    "value": "#eb9772",
+                    "name": "Apricot",
+                    "light": true
+                },
+                {
+                    "value": "#ff445f",
+                    "name": "Smoke",
+                    "light": true
+                },
+                {
+                    "value": "#32435f",
+                    "name": "Chambray",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tigers & Tundra",
+            "colors": [
+                {
+                    "value": "#9ea2ab",
+                    "name": "Tundra",
+                    "light": true
+                },
+                {
+                    "value": "#6d8db6",
+                    "name": "Glacier Blue",
+                    "light": true
+                },
+                {
+                    "value": "#ffcc71",
+                    "name": "Tiger",
+                    "light": false
+                },
+                {
+                    "value": "#a16f3a",
+                    "name": "Cider",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
