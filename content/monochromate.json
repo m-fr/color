@@ -1,0 +1,230 @@
+{
+    "name": "Monochromate",
+    "sets": [
+        {
+            "name": "Comfy & Neutral",
+            "colors": [
+                {
+                    "value": "#e1dcd9",
+                    "name": "Mushroom",
+                    "light": false
+                },
+                {
+                    "value": "#8f8681",
+                    "name": "Elephant",
+                    "light": true
+                },
+                {
+                    "value": "#a67f78",
+                    "name": "Thatch",
+                    "light": true
+                },
+                {
+                    "value": "#32435f",
+                    "name": "Gunmetal",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Electric Purples",
+            "colors": [
+                {
+                    "value": "#d3b7d8",
+                    "name": "Lilac",
+                    "light": false
+                },
+                {
+                    "value": "#a13e97",
+                    "name": "Steel Pink",
+                    "light": true
+                },
+                {
+                    "value": "#632a7e",
+                    "name": "Eminence",
+                    "light": true
+                },
+                {
+                    "value": "#280e3b",
+                    "name": "Valentino",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Emerald Garden",
+            "colors": [
+                {
+                    "value": "#9bcfb8",
+                    "name": "Cool Mint",
+                    "light": false
+                },
+                {
+                    "value": "#7fb174",
+                    "name": "Succulent",
+                    "light": true
+                },
+                {
+                    "value": "#689c97",
+                    "name": "Juniper",
+                    "light": true
+                },
+                {
+                    "value": "#072a24",
+                    "name": "Brunswick",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Mellow Agate",
+            "colors": [
+                {
+                    "value": "#ffd954",
+                    "name": "Mustard",
+                    "light": false
+                },
+                {
+                    "value": "#e4b660",
+                    "name": "Dijon",
+                    "light": false
+                },
+                {
+                    "value": "#f2ab39",
+                    "name": "Honey",
+                    "light": true
+                },
+                {
+                    "value": "#69491a",
+                    "name": "Chestnut",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Misty Greens",
+            "colors": [
+                {
+                    "value": "#d1ede1",
+                    "name": "Swans Down",
+                    "light": false
+                },
+                {
+                    "value": "#7bc5ae",
+                    "name": "Larchmere",
+                    "light": false
+                },
+                {
+                    "value": "#028c6a",
+                    "name": "Observatory",
+                    "light": true
+                },
+                {
+                    "value": "#003e19",
+                    "name": "Kaitoke",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pink Powders",
+            "colors": [
+                {
+                    "value": "#ece4e2",
+                    "name": "Bone",
+                    "light": false
+                },
+                {
+                    "value": "#fcd3d1",
+                    "name": "Baby Pink",
+                    "light": false
+                },
+                {
+                    "value": "#fcdff3",
+                    "name": "Bubblegum",
+                    "light": false
+                },
+                {
+                    "value": "#fe929f",
+                    "name": "Tickle Me",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rosy Reds",
+            "colors": [
+                {
+                    "value": "#ffc2c3",
+                    "name": "Light Pink",
+                    "light": false
+                },
+                {
+                    "value": "#fe7773",
+                    "name": "Coral",
+                    "light": true
+                },
+                {
+                    "value": "#e81e25",
+                    "name": "Red Rose",
+                    "light": true
+                },
+                {
+                    "value": "#0e0301",
+                    "name": "Blackberry",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Subdued Succulent",
+            "colors": [
+                {
+                    "value": "#d1dddb",
+                    "name": "Pistachio",
+                    "light": false
+                },
+                {
+                    "value": "#85b8cb",
+                    "name": "Turquoise",
+                    "light": false
+                },
+                {
+                    "value": "#1d6a96",
+                    "name": "Cerulean",
+                    "light": true
+                },
+                {
+                    "value": "#283b42",
+                    "name": "Spruce",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Western Wear",
+            "colors": [
+                {
+                    "value": "#d5d2c1",
+                    "name": "Linen",
+                    "light": false
+                },
+                {
+                    "value": "#bd8e62",
+                    "name": "Twine",
+                    "light": true
+                },
+                {
+                    "value": "#a46843",
+                    "name": "Fawn",
+                    "light": true
+                },
+                {
+                    "value": "#370d00",
+                    "name": "Hickory",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
