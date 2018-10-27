@@ -1,0 +1,132 @@
+body
+{
+    margin: auto;
+    color:#000000;
+    background-color:#f6f6f6;
+    font-family: 'Roboto', Verdana, sans-serif;
+}
+.sidenav
+{
+    height:100%;
+    width: 15rem;
+    display: none;
+    position:fixed;
+    z-index:1;
+    overflow-x: hidden;
+    box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    top: 0;
+    background-color:#dfdfdf
+}
+.sidenav .button
+{
+    width: 100%;
+}
+.sidenav a
+{
+    width: 100%;
+    display: block;
+    padding: 0.2rem 0.5rem;
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.2rem;
+    box-sizing: border-box;
+}
+.sidenav a:hover
+{
+    color: #ffffff;
+    background-color: #616161;
+}
+.content>h1
+{
+    color: #ffffff;
+    background-color: #303030;
+    margin: 0;
+    padding: 0.5rem;
+}
+.content>h2
+{
+    padding-left: 1rem;
+    border-bottom: 2px solid gray;
+}
+.content>h3
+{
+    padding-left: 1.5rem;
+}
+.content>*
+{
+    padding-left: 2rem;
+}
+button>img
+{
+    height: 1.5rem;
+    vertical-align: middle;
+}
+.button
+{
+    border: none;
+    display: inline-block;
+    padding: 0.5rem 0.5rem;
+    overflow: hidden;
+    background-color: inherit;
+    cursor: pointer;
+    font-size: 1.5rem;
+
+}
+.button:hover
+{
+    color: #ffffff;
+    background-color: #616161;
+}
+.button:disabled
+{
+    cursor: not-allowed;
+    opacity: 0.3;
+}
+.open
+{
+    float: left;
+    color: #ffffff;
+    background-color: #303030;
+}
+
+.color {
+    display: inline-block;
+    width: 100%;
+    padding: 3em 0.5em;
+    box-sizing: border-box;
+}
+.color > *
+{
+    text-transform: uppercase;
+    margin: auto;
+    text-align: center;
+}
+
+@media (min-width:321px)
+{
+    .color {
+        width: 50%;
+    }
+}
+@media (min-width:768px)
+{
+    .color {
+        width: 25%;
+    }
+}
+
+@media (min-width:993px)
+{
+    .sidenav
+    {
+        display: block;
+    }
+    .button
+    {
+        display: none;
+    }
+    main
+    {
+        margin-left: 15rem;
+    }
+}
