@@ -1,0 +1,236 @@
+{
+    "name": "Uncategorized sets",
+    "sets": [
+        {
+            "name": "Pomegranate Punch",
+            "colors": [
+                {
+                    "value": "#fd0e20",
+                    "light": true
+                },
+                {
+                    "value": "#ffa37f",
+                    "light": false
+                },
+                {
+                    "value": "#ffcc1a",
+                    "light": false
+                },
+                {
+                    "value": "#ff8d0d",
+                    "light": true
+                },
+                {
+                    "value": "#ff3b34",
+                    "light": true
+                },
+                {
+                    "value": "#fe7170",
+                    "light": false
+                },
+                {
+                    "value": "#fed884",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Sahara",
+            "colors": [
+                {
+                    "value": "#dd9d3a",
+                    "light": false
+                },
+                {
+                    "value": "#f27601",
+                    "light": true
+                },
+                {
+                    "value": "#ffb602",
+                    "light": false
+                },
+                {
+                    "value": "#feef0c",
+                    "light": false
+                },
+                {
+                    "value": "#b77835",
+                    "light": false
+                },
+                {
+                    "value": "#cf5e01",
+                    "light": true
+                },
+                {
+                    "value": "#e87d07",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sea Wave",
+            "colors": [
+                {
+                    "value": "#0295ca",
+                    "light": true
+                },
+                {
+                    "value": "#75b9d4",
+                    "light": false
+                },
+                {
+                    "value": "#38b1c2",
+                    "light": false
+                },
+                {
+                    "value": "#017c6e",
+                    "light": true
+                },
+                {
+                    "value": "#00a76a",
+                    "light": true
+                },
+                {
+                    "value": "#52c7b8",
+                    "light": false
+                },
+                {
+                    "value": "#519876",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Leopard",
+            "colors": [
+                {
+                    "value": "#000000",
+                    "light": true
+                },
+                {
+                    "value": "#3d3d3d",
+                    "light": true
+                },
+                {
+                    "value": "#c6c6c6",
+                    "light": false
+                },
+                {
+                    "value": "#424242",
+                    "light": true
+                },
+                {
+                    "value": "#2f2f2f",
+                    "light": true
+                },
+                {
+                    "value": "#868686",
+                    "light": false
+                },
+                {
+                    "value": "#212121",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sloth",
+            "colors": [
+                {
+                    "value": "#a59274",
+                    "light": false
+                },
+                {
+                    "value": "#432617",
+                    "light": true
+                },
+                {
+                    "value": "#e1c8a3",
+                    "light": false
+                },
+                {
+                    "value": "#735f53",
+                    "light": true
+                },
+                {
+                    "value": "#e5dac6",
+                    "light": false
+                },
+                {
+                    "value": "#57412a",
+                    "light": true
+                },
+                {
+                    "value": "#756a69",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sunset",
+            "colors": [
+                {
+                    "value": "#dfc9e2",
+                    "light": false
+                },
+                {
+                    "value": "#a99cc8",
+                    "light": true
+                },
+                {
+                    "value": "#ed9dba",
+                    "light": false
+                },
+                {
+                    "value": "#c35cad",
+                    "light": false
+                },
+                {
+                    "value": "#7d2c6f",
+                    "light": true
+                },
+                {
+                    "value": "#fdcdbd",
+                    "light": false
+                },
+                {
+                    "value": "#db6380",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Winter Snow",
+            "colors": [
+                {
+                    "value": "#fffbfa",
+                    "light": false
+                },
+                {
+                    "value": "#bdb6c0",
+                    "light": false
+                },
+                {
+                    "value": "#f8eae4",
+                    "light": false
+                },
+                {
+                    "value": "#f9d6bd",
+                    "light": false
+                },
+                {
+                    "value": "#f8f2f2",
+                    "light": false
+                },
+                {
+                    "value": "#d5cad7",
+                    "light": false
+                },
+                {
+                    "value": "#dcd9df",
+                    "light": false
+                }
+            ]
+        }
+    ]
+}
