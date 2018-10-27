@@ -19,7 +19,7 @@
   {
     $x = explode('/', $filename);
     $name = explode('.', $x[sizeof($x)-1])[0];
-    printf('<a href="#%s" onclick="load(\'%s\')">%s</a>',$name, $name, ucfirst($name));
+    printf('<a href="#%s" onclick="load(\'%s\')">%s</a>',$name, $name, str_replace("_", " ", ucfirst($name)));
   }
 ?>
     </nav>
