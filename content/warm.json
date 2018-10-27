@@ -1,0 +1,305 @@
+{
+    "name": "Warm Tones",
+    "sets": [
+        {
+            "name": "Adventurous Reds",
+            "colors": [
+                {
+                    "value": "#867182",
+                    "name": "Thistle",
+                    "light": true
+                },
+                {
+                    "value": "#f2d3c1",
+                    "name": "Khaki",
+                    "light": false
+                },
+                {
+                    "value": "#d36d3d",
+                    "name": "Marmalade",
+                    "light": true
+                },
+                {
+                    "value": "#b12c25",
+                    "name": "Ruby",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bird in the Shadows",
+            "colors": [
+                {
+                    "value": "#fef0bf",
+                    "name": "Beeswax",
+                    "light": false
+                },
+                {
+                    "value": "#f3b749",
+                    "name": "Casablanca",
+                    "light": true
+                },
+                {
+                    "value": "#655c57",
+                    "name": "Storm Dust",
+                    "light": true
+                },
+                {
+                    "value": "#2e1e11",
+                    "name": "Mikado",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Butterfly Bliss",
+            "colors": [
+                {
+                    "value": "#9ab878",
+                    "name": "Olivine",
+                    "light": false
+                },
+                {
+                    "value": "#f2de99",
+                    "name": "Jasmine",
+                    "light": false
+                },
+                {
+                    "value": "#e98d24",
+                    "name": "Monarch",
+                    "light": true
+                },
+                {
+                    "value": "#252839",
+                    "name": "Ebony Clay",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Citrus Punch",
+            "colors": [
+                {
+                    "value": "#ffb53c",
+                    "name": "Mango",
+                    "light": true
+                },
+                {
+                    "value": "#eeb3a3",
+                    "name": "Peach",
+                    "light": false
+                },
+                {
+                    "value": "#f3553c",
+                    "name": "Blood Orange",
+                    "light": true
+                },
+                {
+                    "value": "#642a02",
+                    "name": "Carnaby Tan",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Japanese Gardens",
+            "colors": [
+                {
+                    "value": "#fec6ad",
+                    "name": "Wax Flowers",
+                    "light": false
+                },
+                {
+                    "value": "#a2b75c",
+                    "name": "Olive",
+                    "light": true
+                },
+                {
+                    "value": "#fe6323",
+                    "name": "Orange",
+                    "light": true
+                },
+                {
+                    "value": "#1f1f29",
+                    "name": "Charade",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Koi Pond",
+            "colors": [
+                {
+                    "value": "#f2af1d",
+                    "name": "Golden",
+                    "light": true
+                },
+                {
+                    "value": "#ee6a22",
+                    "name": "Koi",
+                    "light": true
+                },
+                {
+                    "value": "#d3d6c3",
+                    "name": "Moon Dust",
+                    "light": false
+                },
+                {
+                    "value": "#5a5c4f",
+                    "name": "Kokoda",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Lush & Luxurious",
+            "colors": [
+                {
+                    "value": "#cc5b3b",
+                    "name": "Yam",
+                    "light": true
+                },
+                {
+                    "value": "#982827",
+                    "name": "Burnt Umber",
+                    "light": true
+                },
+                {
+                    "value": "#92617e",
+                    "name": "Mauve",
+                    "light": true
+                },
+                {
+                    "value": "#3c1832",
+                    "name": "Wine",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Mango Dream",
+            "colors": [
+                {
+                    "value": "#ffe083",
+                    "name": "Mango",
+                    "light": false
+                },
+                {
+                    "value": "#e99a24",
+                    "name": "Popsicle",
+                    "light": true
+                },
+                {
+                    "value": "#2b3c1a",
+                    "name": "Dark Green",
+                    "light": true
+                },
+                {
+                    "value": "#171516",
+                    "name": "Blueberry",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rustic & Traditional",
+            "colors": [
+                {
+                    "value": "#e5d1ac",
+                    "name": "Hampton",
+                    "light": false
+                },
+                {
+                    "value": "#ef6e2c",
+                    "name": "Tango",
+                    "light": true
+                },
+                {
+                    "value": "#61271c",
+                    "name": "Espresso",
+                    "light": true
+                },
+                {
+                    "value": "#2c413c",
+                    "name": "Palm Green",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sushi Platter",
+            "colors": [
+                {
+                    "value": "#f69864",
+                    "name": "Shrimp",
+                    "light": true
+                },
+                {
+                    "value": "#e95761",
+                    "name": "Tuna",
+                    "light": true
+                },
+                {
+                    "value": "#290f02",
+                    "name": "Caviar",
+                    "light": true
+                },
+                {
+                    "value": "#1e4620",
+                    "name": "Crusoe",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Terracota Marble",
+            "colors": [
+                {
+                    "value": "#d8b484",
+                    "name": "Brandy",
+                    "light": false
+                },
+                {
+                    "value": "#b16b2f",
+                    "name": "Copper",
+                    "light": true
+                },
+                {
+                    "value": "#c76331",
+                    "name": "Tuscany",
+                    "light": true
+                },
+                {
+                    "value": "#9a2513",
+                    "name": "Tabasco",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Wood Fired",
+            "colors": [
+                {
+                    "value": "#a5a79a",
+                    "name": "Delta",
+                    "light": true
+                },
+                {
+                    "value": "#eca442",
+                    "name": "Gamboge",
+                    "light": true
+                },
+                {
+                    "value": "#ca2521",
+                    "name": "Tomato",
+                    "light": true
+                },
+                {
+                    "value": "#61120e",
+                    "name": "Pepperoni",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
