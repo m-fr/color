@@ -1,0 +1,530 @@
+{
+    "name": "Retro",
+    "sets": [
+        {
+            "name": "Antique Armchair",
+            "colors": [
+                {
+                    "value": "#c8782f",
+                    "light": true
+                },
+                {
+                    "value": "#e1b878",
+                    "light": false
+                },
+                {
+                    "value": "#75acc0",
+                    "light": true
+                },
+                {
+                    "value": "#66202a",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Audio Waves",
+            "colors": [
+                {
+                    "value": "#e4e0c7",
+                    "light": false
+                },
+                {
+                    "value": "#ddc470",
+                    "light": false
+                },
+                {
+                    "value": "#cc6e55",
+                    "light": true
+                },
+                {
+                    "value": "#573b3a",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bright Bicycle",
+            "colors": [
+                {
+                    "value": "#eeaf00",
+                    "light": true
+                },
+                {
+                    "value": "#a54314",
+                    "light": true
+                },
+                {
+                    "value": "#01a7b7",
+                    "light": true
+                },
+                {
+                    "value": "#8b7366",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cruising Convertible",
+            "colors": [
+                {
+                    "value": "#fbf3de",
+                    "light": false
+                },
+                {
+                    "value": "#f4b30f",
+                    "light": true
+                },
+                {
+                    "value": "#f78e1e",
+                    "light": true
+                },
+                {
+                    "value": "#b0553a",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Kayak Crew",
+            "colors": [
+                {
+                    "value": "#82363a",
+                    "light": true
+                },
+                {
+                    "value": "#519d90",
+                    "light": true
+                },
+                {
+                    "value": "#e69675",
+                    "light": true
+                },
+                {
+                    "value": "#e55151",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Lustrous Lamps",
+            "colors": [
+                {
+                    "value": "#ffd195",
+                    "light": false
+                },
+                {
+                    "value": "#5d98b4",
+                    "light": true
+                },
+                {
+                    "value": "#de7e44",
+                    "light": true
+                },
+                {
+                    "value": "#41354d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Mountainous Trek",
+            "colors": [
+                {
+                    "value": "#f9d46c",
+                    "light": false
+                },
+                {
+                    "value": "#f1956e",
+                    "light": true
+                },
+                {
+                    "value": "#85496f",
+                    "light": true
+                },
+                {
+                    "value": "#48283d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Nostalgic Autumn",
+            "colors": [
+                {
+                    "value": "#fecb20",
+                    "light": false
+                },
+                {
+                    "value": "#84d0c4",
+                    "light": false
+                },
+                {
+                    "value": "#f63b34",
+                    "light": true
+                },
+                {
+                    "value": "#492b2d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pin-Ups & Piers",
+            "colors": [
+                {
+                    "value": "#b4d3aa",
+                    "light": false
+                },
+                {
+                    "value": "#84d2de",
+                    "light": false
+                },
+                {
+                    "value": "#ea8f3c",
+                    "light": true
+                },
+                {
+                    "value": "#b24639",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Retro Charm",
+            "colors": [
+                {
+                    "value": "#efd9a7",
+                    "light": false
+                },
+                {
+                    "value": "#c97f04",
+                    "light": true
+                },
+                {
+                    "value": "#617f7f",
+                    "light": true
+                },
+                {
+                    "value": "#192d2e",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Retro Rides",
+            "colors": [
+                {
+                    "value": "#bab190",
+                    "light": false
+                },
+                {
+                    "value": "#50b6ab",
+                    "light": false
+                },
+                {
+                    "value": "#6c9575",
+                    "light": true
+                },
+                {
+                    "value": "#0a111b",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Roller Rink",
+            "colors": [
+                {
+                    "value": "#faa45b",
+                    "light": true
+                },
+                {
+                    "value": "#e1741c",
+                    "light": true
+                },
+                {
+                    "value": "#568dac",
+                    "light": true
+                },
+                {
+                    "value": "#1b3242",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Scenic Elevations",
+            "colors": [
+                {
+                    "value": "#e3d096",
+                    "light": false
+                },
+                {
+                    "value": "#fd9301",
+                    "light": true
+                },
+                {
+                    "value": "#53929b",
+                    "light": true
+                },
+                {
+                    "value": "#2e2a39",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Subdued Swirls",
+            "colors": [
+                {
+                    "value": "#f2d8b3",
+                    "light": false
+                },
+                {
+                    "value": "#fbd266",
+                    "light": false
+                },
+                {
+                    "value": "#8fb0a9",
+                    "light": true
+                },
+                {
+                    "value": "#d76735",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sunset Beach",
+            "colors": [
+                {
+                    "value": "#fcd997",
+                    "light": false
+                },
+                {
+                    "value": "#95a7b5",
+                    "light": true
+                },
+                {
+                    "value": "#cd7f7d",
+                    "light": true
+                },
+                {
+                    "value": "#5a424f",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Surf & Sunset",
+            "colors": [
+                {
+                    "value": "#fdf0c4",
+                    "light": false
+                },
+                {
+                    "value": "#f7a992",
+                    "light": false
+                },
+                {
+                    "value": "#82a0c2",
+                    "light": true
+                },
+                {
+                    "value": "#4c364d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tiled Texture",
+            "colors": [
+                {
+                    "value": "#efd78d",
+                    "light": false
+                },
+                {
+                    "value": "#e97e2e",
+                    "light": true
+                },
+                {
+                    "value": "#898886",
+                    "light": true
+                },
+                {
+                    "value": "#874338",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tranquil Trails",
+            "colors": [
+                {
+                    "value": "#f8efb6",
+                    "light": false
+                },
+                {
+                    "value": "#d09c8e",
+                    "light": true
+                },
+                {
+                    "value": "#d77067",
+                    "light": true
+                },
+                {
+                    "value": "#724559",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tropical Palms",
+            "colors": [
+                {
+                    "value": "#d6f1c4",
+                    "light": false
+                },
+                {
+                    "value": "#e95d2a",
+                    "light": true
+                },
+                {
+                    "value": "#f5e258",
+                    "light": false
+                },
+                {
+                    "value": "#643754",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vast Voyages",
+            "colors": [
+                {
+                    "value": "#73a1b0",
+                    "light": true
+                },
+                {
+                    "value": "#87806d",
+                    "light": true
+                },
+                {
+                    "value": "#ff7e57",
+                    "light": true
+                },
+                {
+                    "value": "#3c3642",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vintage Lens",
+            "colors": [
+                {
+                    "value": "#f3cda9",
+                    "light": false
+                },
+                {
+                    "value": "#ee592e",
+                    "light": true
+                },
+                {
+                    "value": "#774836",
+                    "light": true
+                },
+                {
+                    "value": "#537479",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vinyl Grooves",
+            "colors": [
+                {
+                    "value": "#e5d2b4",
+                    "light": false
+                },
+                {
+                    "value": "#ed6a40",
+                    "light": true
+                },
+                {
+                    "value": "#8c6373",
+                    "light": true
+                },
+                {
+                    "value": "#522641",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Weekend Getaway",
+            "colors": [
+                {
+                    "value": "#d9cfc5",
+                    "light": false
+                },
+                {
+                    "value": "#a49375",
+                    "light": true
+                },
+                {
+                    "value": "#c6612b",
+                    "light": true
+                },
+                {
+                    "value": "#a23419",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Wild Wanderlust",
+            "colors": [
+                {
+                    "value": "#fcb7a8",
+                    "light": false
+                },
+                {
+                    "value": "#ed6a40",
+                    "light": true
+                },
+                {
+                    "value": "#758086",
+                    "light": true
+                },
+                {
+                    "value": "#2b4448",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "World Traveler",
+            "colors": [
+                {
+                    "value": "#fec240",
+                    "light": false
+                },
+                {
+                    "value": "#de4b43",
+                    "light": true
+                },
+                {
+                    "value": "#98c4d1",
+                    "light": false
+                },
+                {
+                    "value": "#2f375b",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
