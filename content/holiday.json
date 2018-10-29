@@ -1,0 +1,425 @@
+{
+    "name": "Holiday",
+    "sets": [
+        {
+            "name": "Autumn Cider",
+            "colors": [
+                {
+                    "value": "#fdc87a",
+                    "light": false
+                },
+                {
+                    "value": "#c15c28",
+                    "light": true
+                },
+                {
+                    "value": "#a13529",
+                    "light": true
+                },
+                {
+                    "value": "#521013",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bold Blossoms",
+            "colors": [
+                {
+                    "value": "#de1f26",
+                    "light": true
+                },
+                {
+                    "value": "#88171a",
+                    "light": true
+                },
+                {
+                    "value": "#2d544f",
+                    "light": true
+                },
+                {
+                    "value": "#132823",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cherry Crumble",
+            "colors": [
+                {
+                    "value": "#e5dfeb",
+                    "light": false
+                },
+                {
+                    "value": "#a098a5",
+                    "light": true
+                },
+                {
+                    "value": "#6c0d0f",
+                    "light": true
+                },
+                {
+                    "value": "#290e14",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Colorful Cuisine",
+            "colors": [
+                {
+                    "value": "#e4c81a",
+                    "light": false
+                },
+                {
+                    "value": "#f3bf19",
+                    "light": true
+                },
+                {
+                    "value": "#e15024",
+                    "light": true
+                },
+                {
+                    "value": "#5e1c20",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cozy Mornings",
+            "colors": [
+                {
+                    "value": "#a9a0a5",
+                    "light": false
+                },
+                {
+                    "value": "#a8795b",
+                    "light": true
+                },
+                {
+                    "value": "#7e5251",
+                    "light": true
+                },
+                {
+                    "value": "#4d5057",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Creamy Cocoa",
+            "colors": [
+                {
+                    "value": "#b9cad2",
+                    "light": false
+                },
+                {
+                    "value": "#74a0b9",
+                    "light": true
+                },
+                {
+                    "value": "#d7945f",
+                    "light": true
+                },
+                {
+                    "value": "#5d3a40",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Dainty Decor",
+            "colors": [
+                {
+                    "value": "#d5d2dd",
+                    "light": false
+                },
+                {
+                    "value": "#ead0d3",
+                    "light": false
+                },
+                {
+                    "value": "#617167",
+                    "light": true
+                },
+                {
+                    "value": "#101e2b",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Forest Flora",
+            "colors": [
+                {
+                    "value": "#d1cff6",
+                    "light": false
+                },
+                {
+                    "value": "#40504f",
+                    "light": true
+                },
+                {
+                    "value": "#302d40",
+                    "light": true
+                },
+                {
+                    "value": "#201d26",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Gorgeous Gourds",
+            "colors": [
+                {
+                    "value": "#e5bd21",
+                    "light": false
+                },
+                {
+                    "value": "#c06028",
+                    "light": true
+                },
+                {
+                    "value": "#517536",
+                    "light": true
+                },
+                {
+                    "value": "#0f3447",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Modern Marble",
+            "colors": [
+                {
+                    "value": "#d4c793",
+                    "light": false
+                },
+                {
+                    "value": "#d0c1d6",
+                    "light": false
+                },
+                {
+                    "value": "#9ca6af",
+                    "light": true
+                },
+                {
+                    "value": "#555f78",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Mystic Snow",
+            "colors": [
+                {
+                    "value": "#e1ddd1",
+                    "light": false
+                },
+                {
+                    "value": "#a7adbb",
+                    "light": true
+                },
+                {
+                    "value": "#16344e",
+                    "light": true
+                },
+                {
+                    "value": "#14191d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pumpkin Spice",
+            "colors": [
+                {
+                    "value": "#e5d2c3",
+                    "light": false
+                },
+                {
+                    "value": "#c4714b",
+                    "light": true
+                },
+                {
+                    "value": "#ae3424",
+                    "light": true
+                },
+                {
+                    "value": "#26434b",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rural Roads",
+            "colors": [
+                {
+                    "value": "#cb7123",
+                    "light": true
+                },
+                {
+                    "value": "#833d3f",
+                    "light": true
+                },
+                {
+                    "value": "#484941",
+                    "light": true
+                },
+                {
+                    "value": "#203c54",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rustic Harvest",
+            "colors": [
+                {
+                    "value": "#f0dcbb",
+                    "light": false
+                },
+                {
+                    "value": "#d76227",
+                    "light": true
+                },
+                {
+                    "value": "#6c0b04",
+                    "light": true
+                },
+                {
+                    "value": "#574d44",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rustic Rooms",
+            "colors": [
+                {
+                    "value": "#b1bec4",
+                    "light": false
+                },
+                {
+                    "value": "#c1b891",
+                    "light": true
+                },
+                {
+                    "value": "#b19f8b",
+                    "light": true
+                },
+                {
+                    "value": "#4d5e68",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Seasonal Sights",
+            "colors": [
+                {
+                    "value": "#e9e6e1",
+                    "light": false
+                },
+                {
+                    "value": "#be7d1f",
+                    "light": true
+                },
+                {
+                    "value": "#373616",
+                    "light": true
+                },
+                {
+                    "value": "#292114",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sweater Weather",
+            "colors": [
+                {
+                    "value": "#fbbe41",
+                    "light": true
+                },
+                {
+                    "value": "#d87c28",
+                    "light": true
+                },
+                {
+                    "value": "#963717",
+                    "light": true
+                },
+                {
+                    "value": "#182e3c",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Warm Wardrobes",
+            "colors": [
+                {
+                    "value": "#dfbc92",
+                    "light": false
+                },
+                {
+                    "value": "#715b46",
+                    "light": true
+                },
+                {
+                    "value": "#71706c",
+                    "light": true
+                },
+                {
+                    "value": "#1c2d37",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Watercolor Blooms",
+            "colors": [
+                {
+                    "value": "#e39c64",
+                    "light": true
+                },
+                {
+                    "value": "#9e825b",
+                    "light": true
+                },
+                {
+                    "value": "#7a4248",
+                    "light": true
+                },
+                {
+                    "value": "#121824",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Winter Wanderlust",
+            "colors": [
+                {
+                    "value": "#d1dae1",
+                    "light": false
+                },
+                {
+                    "value": "#76848f",
+                    "light": true
+                },
+                {
+                    "value": "#8e6569",
+                    "light": true
+                },
+                {
+                    "value": "#473438",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
