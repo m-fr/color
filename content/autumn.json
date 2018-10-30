@@ -1,0 +1,164 @@
+{
+    "name": "Autumn",
+    "sets": [
+        {
+            "name": "Cosy Autumnal",
+            "colors": [
+                {
+                    "value": "#e7a54d",
+                    "light": true
+                },
+                {
+                    "value": "#d9d3cd",
+                    "light": false
+                },
+                {
+                    "value": "#ca3f28",
+                    "light": true
+                },
+                {
+                    "value": "#216a6c",
+                    "light": true
+                },
+                {
+                    "value": "#dfc3bf",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Fall Sunset",
+            "colors": [
+                {
+                    "value": "#fb6f00",
+                    "light": true
+                },
+                {
+                    "value": "#0015e8",
+                    "light": true
+                },
+                {
+                    "value": "#dad5db",
+                    "light": false
+                },
+                {
+                    "value": "#ffffff",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Blue Marble",
+            "colors": [
+                {
+                    "value": "#134f9e",
+                    "light": true
+                },
+                {
+                    "value": "#b37624",
+                    "light": true
+                },
+                {
+                    "value": "#f3e9e9",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Rustic Wedding",
+            "colors": [
+                {
+                    "value": "#5a6433",
+                    "light": true
+                },
+                {
+                    "value": "#343b1c",
+                    "light": true
+                },
+                {
+                    "value": "#a49acb",
+                    "light": true
+                },
+                {
+                    "value": "#e18496",
+                    "light": true
+                },
+                {
+                    "value": "#0c0e09",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Fall Home",
+            "colors": [
+                {
+                    "value": "#f5c9d3",
+                    "light": false
+                },
+                {
+                    "value": "#db262f",
+                    "light": true
+                },
+                {
+                    "value": "#265f59",
+                    "light": true
+                },
+                {
+                    "value": "#201c47",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Simple Retro",
+            "colors": [
+                {
+                    "value": "#1f69b2",
+                    "light": true
+                },
+                {
+                    "value": "#e94a44",
+                    "light": true
+                },
+                {
+                    "value": "#5ebca4",
+                    "light": true
+                },
+                {
+                    "value": "#f2f0e3",
+                    "light": false
+                },
+                {
+                    "value": "#1c1f3e",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Red Barn",
+            "colors": [
+                {
+                    "value": "#fe4818",
+                    "light": true
+                },
+                {
+                    "value": "#aecacd",
+                    "light": true
+                },
+                {
+                    "value": "#a49575",
+                    "light": true
+                },
+                {
+                    "value": "#e1dcc3",
+                    "light": false
+                },
+                {
+                    "value": "#39140e",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
