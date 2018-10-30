@@ -1,0 +1,730 @@
+{
+    "name": "Punchy & Bright",
+    "sets": [
+        {
+            "name": "Acrylic Madness",
+            "colors": [
+                {
+                    "value": "#edc9e0",
+                    "name": "Bubblegum",
+                    "light": false
+                },
+                {
+                    "value": "#ffb42a",
+                    "name": "Sun",
+                    "light": true
+                },
+                {
+                    "value": "#ee1d47",
+                    "name": "Coquelicot",
+                    "light": true
+                },
+                {
+                    "value": "#742064",
+                    "name": "Mulberry",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Arizona Sunsets",
+            "colors": [
+                {
+                    "value": "#fec804",
+                    "name": "Marigold",
+                    "light": false
+                },
+                {
+                    "value": "#f26322",
+                    "name": "Persimmon",
+                    "light": true
+                },
+                {
+                    "value": "#7a2d59",
+                    "name": "Plum",
+                    "light": true
+                },
+                {
+                    "value": "#181b46",
+                    "name": "Indigo",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bohemian Motif",
+            "colors": [
+                {
+                    "value": "#f2f3af",
+                    "name": "Celery",
+                    "light": false
+                },
+                {
+                    "value": "#ffd84f",
+                    "name": "Saffron",
+                    "light": false
+                },
+                {
+                    "value": "#d74126",
+                    "name": "Scarlet",
+                    "light": true
+                },
+                {
+                    "value": "#50a0c3",
+                    "name": "Clear Sky",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bright Cityscape",
+            "colors": [
+                {
+                    "value": "#f0bbc3",
+                    "name": "Petal",
+                    "light": false
+                },
+                {
+                    "value": "#10a44a",
+                    "name": "Fern",
+                    "light": true
+                },
+                {
+                    "value": "#fd8411",
+                    "name": "Sorbus",
+                    "light": true
+                },
+                {
+                    "value": "#877d7c",
+                    "name": "Stone",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cobalt Caves",
+            "colors": [
+                {
+                    "value": "#efc638",
+                    "name": "Saffron",
+                    "light": false
+                },
+                {
+                    "value": "#416eb6",
+                    "name": "Azure",
+                    "light": true
+                },
+                {
+                    "value": "#715ca8",
+                    "name": "Amethyst",
+                    "light": true
+                },
+                {
+                    "value": "#2b103b",
+                    "name": "Raisin",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Colorful Bloom",
+            "colors": [
+                {
+                    "value": "#eac9c0",
+                    "name": "Rosy Brown",
+                    "light": false
+                },
+                {
+                    "value": "#dab2d3",
+                    "name": "Orchid",
+                    "light": false
+                },
+                {
+                    "value": "#9edae3",
+                    "name": "Fluorescent",
+                    "light": false
+                },
+                {
+                    "value": "#65c4d8",
+                    "name": "Cornflower",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Coral Anemone",
+            "colors": [
+                {
+                    "value": "#ffbdb0",
+                    "name": "Melon",
+                    "light": false
+                },
+                {
+                    "value": "#fc801c",
+                    "name": "Pumpkin",
+                    "light": true
+                },
+                {
+                    "value": "#bb496b",
+                    "name": "Magenta",
+                    "light": true
+                },
+                {
+                    "value": "#311418",
+                    "name": "Wine",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Crisp Citrus",
+            "colors": [
+                {
+                    "value": "#f9e54e",
+                    "name": "Lemon",
+                    "light": false
+                },
+                {
+                    "value": "#f8981d",
+                    "name": "Orange",
+                    "light": true
+                },
+                {
+                    "value": "#e12e4b",
+                    "name": "Pomegranate",
+                    "light": true
+                },
+                {
+                    "value": "#5bbdc8",
+                    "name": "Turquoise",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Distorted Abstraction",
+            "colors": [
+                {
+                    "value": "#33c7f7",
+                    "name": "Electric Blue",
+                    "light": false
+                },
+                {
+                    "value": "#dfa0c8",
+                    "name": "Orchid",
+                    "light": true
+                },
+                {
+                    "value": "#2c4398",
+                    "name": "Cobalt",
+                    "light": true
+                },
+                {
+                    "value": "#25255f",
+                    "name": "Port Gore",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Fresh Spring",
+            "colors": [
+                {
+                    "value": "#faa98b",
+                    "name": "Peachy",
+                    "light": true
+                },
+                {
+                    "value": "#e6aecf",
+                    "name": "Azalea",
+                    "light": true
+                },
+                {
+                    "value": "#aee0dd",
+                    "name": "Aqua",
+                    "light": false
+                },
+                {
+                    "value": "#01acbd",
+                    "name": "Pacific Blue",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Hot Chili",
+            "colors": [
+                {
+                    "value": "#bcc74f",
+                    "name": "Chartreuse",
+                    "light": true
+                },
+                {
+                    "value": "#f38f3a",
+                    "name": "Jaffa",
+                    "light": true
+                },
+                {
+                    "value": "#712333",
+                    "name": "Chipotle",
+                    "light": true
+                },
+                {
+                    "value": "#3b3a73",
+                    "name": "East Bay",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Italian Dwellings",
+            "colors": [
+                {
+                    "value": "#fed770",
+                    "name": "Goldenrod",
+                    "light": false
+                },
+                {
+                    "value": "#f29f8f",
+                    "name": "Salmon",
+                    "light": true
+                },
+                {
+                    "value": "#fb7552",
+                    "name": "Tangerine",
+                    "light": true
+                },
+                {
+                    "value": "#076a67",
+                    "name": "Myrtle",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Luminous Bubbles",
+            "colors": [
+                {
+                    "value": "#ecec84",
+                    "name": "Lemon",
+                    "light": false
+                },
+                {
+                    "value": "#ffb69b",
+                    "name": "Coral",
+                    "light": false
+                },
+                {
+                    "value": "#a299ca",
+                    "name": "Lavender",
+                    "light": false
+                },
+                {
+                    "value": "#7ccaae",
+                    "name": "Seafoam",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Luminous Lines",
+            "colors": [
+                {
+                    "value": "#8ad5eb",
+                    "name": "Sky Blue",
+                    "light": false
+                },
+                {
+                    "value": "#8a54a2",
+                    "name": "Vivid Purple",
+                    "light": true
+                },
+                {
+                    "value": "#5954a4",
+                    "name": "Scampi",
+                    "light": true
+                },
+                {
+                    "value": "#04254e",
+                    "name": "Denim",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Meticulous Mandala",
+            "colors": [
+                {
+                    "value": "#f6e0ae",
+                    "name": "Wheat",
+                    "light": false
+                },
+                {
+                    "value": "#ffb312",
+                    "name": "Butterscotch",
+                    "light": true
+                },
+                {
+                    "value": "#85cfb4",
+                    "name": "Eucalyptus",
+                    "light": false
+                },
+                {
+                    "value": "#ed186b",
+                    "name": "Razzmatazz",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pastel Pastries",
+            "colors": [
+                {
+                    "value": "#ffd0d6",
+                    "name": "Pastel Pink",
+                    "light": false
+                },
+                {
+                    "value": "#b7dde0",
+                    "name": "Ziggurat",
+                    "light": false
+                },
+                {
+                    "value": "#fee19f",
+                    "name": "Lemonade",
+                    "light": false
+                },
+                {
+                    "value": "#735b69",
+                    "name": "Falcon",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pastel Patios",
+            "colors": [
+                {
+                    "value": "#f5c9ca",
+                    "name": "Ballet",
+                    "light": false
+                },
+                {
+                    "value": "#aad4ec",
+                    "name": "Spindle",
+                    "light": false
+                },
+                {
+                    "value": "#f5ce45",
+                    "name": "Saffron",
+                    "light": false
+                },
+                {
+                    "value": "#ca664e",
+                    "name": "Terracotta",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Poolside Waves",
+            "colors": [
+                {
+                    "value": "#d6d0ae",
+                    "name": "Ecru",
+                    "light": false
+                },
+                {
+                    "value": "#f5e68b",
+                    "name": "Daffodil",
+                    "light": false
+                },
+                {
+                    "value": "#6bb6a1",
+                    "name": "Poolside",
+                    "light": true
+                },
+                {
+                    "value": "#df6033",
+                    "name": "Flame",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pops of Neon",
+            "colors": [
+                {
+                    "value": "#eac1db",
+                    "name": "Melanie",
+                    "light": false
+                },
+                {
+                    "value": "#a1268e",
+                    "name": "Fuchsia",
+                    "light": true
+                },
+                {
+                    "value": "#9d1e31",
+                    "name": "Brick Red",
+                    "light": true
+                },
+                {
+                    "value": "#2c0136",
+                    "name": "Aubergine",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rainbow Reverie",
+            "colors": [
+                {
+                    "value": "#ffec73",
+                    "name": "Banana",
+                    "light": false
+                },
+                {
+                    "value": "#77bca9",
+                    "name": "Keppel",
+                    "light": true
+                },
+                {
+                    "value": "#f78e1e",
+                    "name": "Orange Peel",
+                    "light": true
+                },
+                {
+                    "value": "#015077",
+                    "name": "Orient",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Rainy Views",
+            "colors": [
+                {
+                    "value": "#c7c5b8",
+                    "name": "Ash",
+                    "light": false
+                },
+                {
+                    "value": "#38618f",
+                    "name": "Chambray",
+                    "light": true
+                },
+                {
+                    "value": "#fd9735",
+                    "name": "Carrot",
+                    "light": true
+                },
+                {
+                    "value": "#ff6745",
+                    "name": "Persimmon",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Spring Fling",
+            "colors": [
+                {
+                    "value": "#feb630",
+                    "name": "Amber",
+                    "light": true
+                },
+                {
+                    "value": "#f4c5d7",
+                    "name": "Petal",
+                    "light": false
+                },
+                {
+                    "value": "#ff445f",
+                    "name": "Punch",
+                    "light": true
+                },
+                {
+                    "value": "#6f925a",
+                    "name": "Crocodile",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Striking Macaw",
+            "colors": [
+                {
+                    "value": "#ffdd00",
+                    "name": "Canary",
+                    "light": false
+                },
+                {
+                    "value": "#f15a22",
+                    "name": "Salamander",
+                    "light": true
+                },
+                {
+                    "value": "#5fad46",
+                    "name": "Limeade",
+                    "light": true
+                },
+                {
+                    "value": "#478fcd",
+                    "name": "Clear Sky",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Summer Getaway",
+            "colors": [
+                {
+                    "value": "#bedae5",
+                    "name": "Baby Blue",
+                    "light": false
+                },
+                {
+                    "value": "#eecb27",
+                    "name": "Golden",
+                    "light": true
+                },
+                {
+                    "value": "#e13239",
+                    "name": "Crimson",
+                    "light": true
+                },
+                {
+                    "value": "#1f1762",
+                    "name": "Indigo",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sunny Scallops",
+            "colors": [
+                {
+                    "value": "#fce5d3",
+                    "name": "Pineapple",
+                    "light": false
+                },
+                {
+                    "value": "#ffa614",
+                    "name": "Sun",
+                    "light": true
+                },
+                {
+                    "value": "#ca4026",
+                    "name": "Valencia",
+                    "light": true
+                },
+                {
+                    "value": "#7e1331",
+                    "name": "Claret",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tea Party",
+            "colors": [
+                {
+                    "value": "#b1dade",
+                    "name": "Powder Blue",
+                    "light": false
+                },
+                {
+                    "value": "#f4ad45",
+                    "name": "Casablanca",
+                    "light": true
+                },
+                {
+                    "value": "#ad184f",
+                    "name": "Magenta",
+                    "light": true
+                },
+                {
+                    "value": "#496a23",
+                    "name": "Leafy Greens",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Tropic Popsicles",
+            "colors": [
+                {
+                    "value": "#fec748",
+                    "name": "Creamsicle",
+                    "light": false
+                },
+                {
+                    "value": "#d92139",
+                    "name": "Pomegranate",
+                    "light": true
+                },
+                {
+                    "value": "#aec33a",
+                    "name": "Kiwi",
+                    "light": true
+                },
+                {
+                    "value": "#253f58",
+                    "name": "Domiz Slate",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vibrant Vibes",
+            "colors": [
+                {
+                    "value": "#ffe246",
+                    "name": "Canary",
+                    "light": false
+                },
+                {
+                    "value": "#f4a5a1",
+                    "name": "Watermelon",
+                    "light": true
+                },
+                {
+                    "value": "#1abcbd",
+                    "name": "Robin's Egg",
+                    "light": true
+                },
+                {
+                    "value": "#014254",
+                    "name": "Deep Sea",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vivid Overlays",
+            "colors": [
+                {
+                    "value": "#a9dfed",
+                    "name": "Arctic",
+                    "light": false
+                },
+                {
+                    "value": "#ebd6e8",
+                    "name": "Bright Lilac",
+                    "light": false
+                },
+                {
+                    "value": "#84c0e9",
+                    "name": "Malibu",
+                    "light": true
+                },
+                {
+                    "value": "#37419a",
+                    "name": "Blue Violet",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
