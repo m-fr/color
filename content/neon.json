@@ -1,0 +1,530 @@
+{
+    "name": "Neon",
+    "sets": [
+        {
+            "name": "Geometric Glow",
+            "colors": [
+                {
+                    "value": "#08f7fe",
+                    "light": false
+                },
+                {
+                    "value": "#09fbd3",
+                    "light": false
+                },
+                {
+                    "value": "#fe53bb",
+                    "light": true
+                },
+                {
+                    "value": "#f5d300",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Neon Lights",
+            "colors": [
+                {
+                    "value": "#ffacfc",
+                    "light": false
+                },
+                {
+                    "value": "#f148fb",
+                    "light": true
+                },
+                {
+                    "value": "#7122fa",
+                    "light": true
+                },
+                {
+                    "value": "#560a86",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Psychedelic Pattern",
+            "colors": [
+                {
+                    "value": "#75d5fd",
+                    "light": false
+                },
+                {
+                    "value": "#b76cfd",
+                    "light": true
+                },
+                {
+                    "value": "#ff2281",
+                    "light": true
+                },
+                {
+                    "value": "#011ffd",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Vivid Ferns",
+            "colors": [
+                {
+                    "value": "#fdc7d7",
+                    "light": false
+                },
+                {
+                    "value": "#ff9de6",
+                    "light": false
+                },
+                {
+                    "value": "#a5d8f3",
+                    "light": false
+                },
+                {
+                    "value": "#e8e500",
+                    "light": false
+                }
+            ]
+        },
+        {
+            "name": "Abstract Wall",
+            "colors": [
+                {
+                    "value": "#00feca",
+                    "light": false
+                },
+                {
+                    "value": "#fdf200",
+                    "light": false
+                },
+                {
+                    "value": "#ff85ea",
+                    "light": true
+                },
+                {
+                    "value": "#7b61f8",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Colorful Cottage",
+            "colors": [
+                {
+                    "value": "#ffd300",
+                    "light": true
+                },
+                {
+                    "value": "#de38c8",
+                    "light": true
+                },
+                {
+                    "value": "#652ec7",
+                    "light": true
+                },
+                {
+                    "value": "#33135c",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cosmic Burst",
+            "colors": [
+                {
+                    "value": "#3b27ba",
+                    "light": true
+                },
+                {
+                    "value": "#e847ae",
+                    "light": true
+                },
+                {
+                    "value": "#13ca91",
+                    "light": true
+                },
+                {
+                    "value": "#ff9472",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Pops of Pink",
+            "colors": [
+                {
+                    "value": "#ffdef3",
+                    "light": false
+                },
+                {
+                    "value": "#ff61be",
+                    "light": true
+                },
+                {
+                    "value": "#3b55ce",
+                    "light": true
+                },
+                {
+                    "value": "#35212a",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Agave Glitch",
+            "colors": [
+                {
+                    "value": "#fdd400",
+                    "light": false
+                },
+                {
+                    "value": "#fdb232",
+                    "light": true
+                },
+                {
+                    "value": "#02b8a2",
+                    "light": true
+                },
+                {
+                    "value": "#01535f",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Fluorescent Fish",
+            "colors": [
+                {
+                    "value": "#fec763",
+                    "light": false
+                },
+                {
+                    "value": "#ea55b1",
+                    "light": true
+                },
+                {
+                    "value": "#a992fa",
+                    "light": false
+                },
+                {
+                    "value": "#00207f",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Glowing Coral",
+            "colors": [
+                {
+                    "value": "#79fffe",
+                    "light": false
+                },
+                {
+                    "value": "#fea0fe",
+                    "light": false
+                },
+                {
+                    "value": "#ff8b8b",
+                    "light": true
+                },
+                {
+                    "value": "#f85125",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Luxurious Lights",
+            "colors": [
+                {
+                    "value": "#ce96fb",
+                    "light": false
+                },
+                {
+                    "value": "#ff8fcf",
+                    "light": false
+                },
+                {
+                    "value": "#00c2ba",
+                    "light": true
+                },
+                {
+                    "value": "#037a90",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Luminous Lines",
+            "colors": [
+                {
+                    "value": "#01ffc3",
+                    "light": false
+                },
+                {
+                    "value": "#01ffff",
+                    "light": false
+                },
+                {
+                    "value": "#ffb3fd",
+                    "light": false
+                },
+                {
+                    "value": "#9d72ff",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Sharp Stationery",
+            "colors": [
+                {
+                    "value": "#a0edff",
+                    "light": false
+                },
+                {
+                    "value": "#ebf875",
+                    "light": false
+                },
+                {
+                    "value": "#28cf75",
+                    "light": true
+                },
+                {
+                    "value": "#fe6b35",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Smooth Prism",
+            "colors": [
+                {
+                    "value": "#ffff66",
+                    "light": false
+                },
+                {
+                    "value": "#fc6e22",
+                    "light": true
+                },
+                {
+                    "value": "#ff1493",
+                    "light": true
+                },
+                {
+                    "value": "#c24cf6",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Venetian Windows",
+            "colors": [
+                {
+                    "value": "#d9eb4b",
+                    "light": false
+                },
+                {
+                    "value": "#00a9fe",
+                    "light": true
+                },
+                {
+                    "value": "#fd6bb6",
+                    "light": true
+                },
+                {
+                    "value": "#ef0888",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Retro Refraction",
+            "colors": [
+                {
+                    "value": "#ffe3f1",
+                    "light": false
+                },
+                {
+                    "value": "#fe1c80",
+                    "light": true
+                },
+                {
+                    "value": "#ff5f01",
+                    "light": true
+                },
+                {
+                    "value": "#ce0000",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Acrylic Strokes",
+            "colors": [
+                {
+                    "value": "#fef900",
+                    "light": false
+                },
+                {
+                    "value": "#03dddc",
+                    "light": false
+                },
+                {
+                    "value": "#ff822e",
+                    "light": true
+                },
+                {
+                    "value": "#f21a1d",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Bright Bokeh",
+            "colors": [
+                {
+                    "value": "#fcf340",
+                    "light": false
+                },
+                {
+                    "value": "#7fff00",
+                    "light": false
+                },
+                {
+                    "value": "#fb33db",
+                    "light": true
+                },
+                {
+                    "value": "#0310ea",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Flashy Fog",
+            "colors": [
+                {
+                    "value": "#e92efb",
+                    "light": true
+                },
+                {
+                    "value": "#ff2079",
+                    "light": true
+                },
+                {
+                    "value": "#440bd4",
+                    "light": true
+                },
+                {
+                    "value": "#04005e",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Cyber Driver",
+            "colors": [
+                {
+                    "value": "#bdbdfd",
+                    "light": false
+                },
+                {
+                    "value": "#bc75f9",
+                    "light": false
+                },
+                {
+                    "value": "#535eeb",
+                    "light": true
+                },
+                {
+                    "value": "#00218a",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Radiant Zoas",
+            "colors": [
+                {
+                    "value": "#b8fb3c",
+                    "light": false
+                },
+                {
+                    "value": "#5ce5d5",
+                    "light": false
+                },
+                {
+                    "value": "#7898fb",
+                    "light": true
+                },
+                {
+                    "value": "#001437",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Graphic Gradient",
+            "colors": [
+                {
+                    "value": "#9ddcff",
+                    "light": false
+                },
+                {
+                    "value": "#c1cffc",
+                    "light": false
+                },
+                {
+                    "value": "#fe87fd",
+                    "light": false
+                },
+                {
+                    "value": "#6576ea",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Beach Vibes",
+            "colors": [
+                {
+                    "value": "#e1ef7e",
+                    "light": false
+                },
+                {
+                    "value": "#ffaa01",
+                    "light": true
+                },
+                {
+                    "value": "#12b296",
+                    "light": true
+                },
+                {
+                    "value": "#027a9f",
+                    "light": true
+                }
+            ]
+        },
+        {
+            "name": "Purple Portrait",
+            "colors": [
+                {
+                    "value": "#3cb9fc",
+                    "light": true
+                },
+                {
+                    "value": "#b537f2",
+                    "light": true
+                },
+                {
+                    "value": "#8a2be2",
+                    "light": true
+                },
+                {
+                    "value": "#120052",
+                    "light": true
+                }
+            ]
+        }
+    ]
+}
